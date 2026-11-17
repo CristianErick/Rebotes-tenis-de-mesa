@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# VS Code (configuración local)
+.vscode/
+
+# No ignorar los datos: el CSV unificado y los originales son parte del proyecto.

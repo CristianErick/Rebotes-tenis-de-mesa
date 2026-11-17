@@ -1,0 +1,6 @@
+racket_id,configuracion,familia_real,familia_predicha,confianza,v_out_norm_real,v_out_norm_predicha,error_absoluto
+5,R05 - Allrounder / 1.2 mm / Picos largos,No invertida,No invertida,0.88,4.313,4.548,0.235
+2,R02 - Ofensiva / 1.8 mm / Invertida allround,Invertida,Invertida,0.922,5.388,5.307,0.081
+5,R05 - Allrounder / 1.2 mm / Picos largos,No invertida,No invertida,1.0,3.643,3.835,0.192
+2,R02 - Ofensiva / 1.8 mm / Invertida allround,Invertida,Invertida,1.0,5.297,5.11,0.187
+5,R05 - Allrounder / 1.2 mm / Picos largos,No invertida,No invertida,1.0,3.858,3.708,0.15
